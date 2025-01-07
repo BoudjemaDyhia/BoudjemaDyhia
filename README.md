@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Dyhia Boudjema 🌟
 
-A computer science, full-stack development, and cyber security enthusiast.
+A computer science, full-stack development student and cyber security enthusiast.
 
 - 💻 I’m constantly working on **projects in development and security**.
 - 🔒 Currently learning **pentesting and advanced cybersecurity techniques**.
