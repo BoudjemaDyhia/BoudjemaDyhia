@@ -31,12 +31,4 @@ A computer science, full-stack development student and cyber security enthusiast
 - Ethical Hacking (Courses on Udemy and hands-on labs)
 
 ---
-
-### 🌟 Links
-- 🌐 [My Personal Website](https://dyho.alwaysdata.net)
-- 🐙 [GitHub](https://github.com/BoudjemaDyhia)
-- 💼 [LinkedIn](http://www.linkedin.com/in/dyhia-boudjema-545499259)
-
----
-
 Thank you for visiting my profile! 🚀
